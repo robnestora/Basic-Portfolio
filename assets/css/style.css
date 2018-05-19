@@ -1,0 +1,17 @@
+header {width: 100%;
+background-color: #ffffff;
+border-color: #cccccc;
+}
+
+body {background-image: url(/assets/images/nasty_fabric_@2X.png);
+        background-repeat: repeat;}
+
+footer {background-color: #666666;
+        width: 100%;}
+
+.content-box{background-color:  #ffffff;
+            border-color: #dddddd;
+            color: #777777;}
+
+.name {background-color:#4aaaa5;
+       color: #ffffff;}
